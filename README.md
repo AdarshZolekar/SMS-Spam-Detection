@@ -6,7 +6,7 @@ This project builds a spam classifier using Natural Language Processing (NLP) an
 - Text cleaning with NLTK
 - TF-IDF vectorization
 - Multinomial Naive Bayes classifier
-- Accuracy ~98%
+- Accuracy ~95%
 - Lightweight and fast
 
 ## Dataset
