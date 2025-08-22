@@ -4,6 +4,9 @@
 ![Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
 This project builds a spam classifier using Natural Language Processing (NLP) and the Naive Bayes algorithm. The model classifies SMS messages as **spam** or **ham** (not spam).
 
+## About this project  
+This project was developed as part of my internship with **Edunet Foundation**.
+
 ## Features
 - Text cleaning with NLTK
 - TF-IDF vectorization
