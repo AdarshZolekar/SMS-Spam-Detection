@@ -1,4 +1,4 @@
-# Spam Detection using Machine Learning
+# SMS Spam Detection using Machine Learning
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
